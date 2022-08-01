@@ -1,0 +1,28 @@
+.icon{
+    width: 60px;
+    height: 60px;
+    margin-left: 40px;
+    margin-top: 18px;
+}
+.h-head{
+    margin-left: 430px;
+    position: relative;
+    top: -160px;
+}
+.abb{
+    float: right;
+}
+
+.about-us{
+    width:550px;
+    display: flex;
+    border: 1px solid black;
+}
+
+.dd{
+    margin-top: 100px;
+}
+
+.h-info{
+    margin-top: -100px;
+}
